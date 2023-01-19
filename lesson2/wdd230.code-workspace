@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "wdd230",
+			"path": "../../../Desktop/wdd230"
+		},
+		{
+			"name": "lesson2",
+			"path": "../../../Documents/wdd230/lesson2"
+		},
+		{
+			"name": "WDD230",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WDD230"
+	}
+}
